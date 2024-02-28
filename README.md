@@ -1,2 +1,2 @@
-# git-blog
+# my-blog
  
